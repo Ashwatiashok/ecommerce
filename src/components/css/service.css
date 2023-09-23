@@ -1,0 +1,19 @@
+.container1{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    width: 700px;
+    margin: auto;
+    margin-top: 20px;
+    /* background-color: aqua; */
+
+}
+.service-1, .service-2, .service-3{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.column{
+    background-color: rgb(219, 235, 235);
+    border-radius: 5px;
+}
